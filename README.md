@@ -5,7 +5,7 @@ This project aims to support automated quality control in fruit inspection syste
 
 ---
 
-# Overview
+## Overview
 
 The dataset consists of orange images categorized into **normal** and **anomalous** classes.  
 The model was trained and validated to recognize imperfections such as texture irregularities, color deviations, or visible damage on the fruit’s surface.
