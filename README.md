@@ -30,3 +30,7 @@ To run the project, install the following dependencies:
 
 ```bash
 pip install tensorflow numpy matplotlib
+
+---
+
+If you have any questions or want more details you can contact me at hgjosue50@gmail.com
